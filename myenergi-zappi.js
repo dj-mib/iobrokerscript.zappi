@@ -52,18 +52,18 @@
         /**
          * Seriennummer des Hubs
          */
-        const hubSerialNo = 11365578; 
+        const hubSerialNo = 777888999; 
         
         /**
          * Seriennummer des Zappis
          */
-        const zappiSerialNo = 18062333;
+        const zappiSerialNo = 12345;
 
         /**
          * Der im Myenergi-Portal erzeugte API-Key für den Hub.
          * (nicht das Login Passwort)
          */
-        const hubApiKey = "uEnaXvbLyMerqZhtSesLprg7";
+        const hubApiKey = "xxx";
         
         /**
          * Anzahl der Phasen des Zappis, bei 3 Phasen werden zusätzliche Datenpunkte erzeugt mit den Summen der 3 Phasen
