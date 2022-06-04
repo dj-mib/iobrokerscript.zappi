@@ -14,7 +14,7 @@ Script für den ioBroker um die myEnergi API für einen Zappi auszulesen
      Die Seriennummern findet man unter anderem unter https://myaccount.myenergi.com/  auf dem Tab "myenergi products"
      Dort muss auch ein API Key für den Hub generiert werden. 
      Dazu auf "Advanced" klicken, Key generieren und hier im Script eintragen.
-4)   ggfs die Konstante dataRoot anpassen. Dort werden die Datenpunkte beim ersten Start des Scripts erstellt.
+4)   ggfs die Konstante **dataRoot** anpassen. Dort werden die Datenpunkte beim ersten Start des Scripts erstellt.
      Sollte man einmal die Datenpunkte löschen einfach das Script erneut starten, dann werden neue oder fehlende Datenpunkte generiert.
 
 5)   optional: Die Konstante **phaseInstallation** auf 1 setzen, wenn man eine 1-Phaseninstallation hat.
